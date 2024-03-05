@@ -11,3 +11,17 @@
 
 Os algoritmos das redes sociais identificam quais publicações devem ser entregues para mais ou menos pessoas. Eles decidem como ranquear os resultados de um feed, a partir do grau de relevância daquele conteúdo para cada usuário.Os algoritmos levam em conta, principalmente, o comportamento e a interação do usuário com o seu conteúdo. Se o usuário interage, comentando, curtindo ou compartilhando suas publicações, maiores as chances do seu conteúdo continuar aparecendo na linha do tempo dele.
 O engajamento é um dos principais critérios de análise dos algoritmos das redes sociais. Contudo, não basta produzir posts alinhados à expectativa da persona do negócio. Você precisa entender as especificidades dos algoritmos de cada rede social. 
+
+Para que um provedor de Data Center se proteja contra danos físicos, que podem influenciar na proteção dos dados de seus clientes, o ideal é investir em redundância, mesmo que os dados sejam guardados na nuvem. Além disso, é importante prezar pela segurança do local, com controles e verificação de acesso. Já contra a proteção de danos virtuais, é necessário dispor de tecnologias de segurança, como a criptografia de dados, firewalls e programas antimalware, que tornam a intercepção de informação mais difícil.
+Muitos dados pessoais ficam expostos online, correndo riscos de serem acessados para o uso indevido. Atualmente, temos a Lei Geral de Proteção de Dados (LGPD) para que se faça cumprir a segurança destas informações.
+Os formatos proprietários representam a privatização da memória digital. Arquivos salvos em formatos abertos são arquivos que seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos.
+Os Formatos abertos permitem que diversos softwares possam implementá-los, independentemente dos direitos de propriedade. Formatos portam padrões e são implementados por softwares, podendo ser abertos ou fechados, livres ou proprietários.Baseado em padrões abertos;
+Desenvolvido de forma transparente e de modo coletivo;
+Suas especificações estão totalmente documentadas e acessíveis a todos;
+Mantido para ser usado independente de qualquer produto ou empresa;
+Livre de qualquer extensão proprietária que impeça seu uso livre.
+Exemplos de formatos proprietários:
+DWG - AutoCad Drawing
+SWF - Shockwave Flash
+DOC - formato proprietário de texto
+PPT - formato proprietário de apresentação de slides
